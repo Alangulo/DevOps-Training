@@ -11,21 +11,30 @@
 ## Azure DevOps and other Open source tools for DevOps: Chef, ELK,  Octopus, Cucumber: Agent/ Server Model 
 ## Default deployment Script from Kudu for small projects
 ## Pipeline with flexibility:
-  + with UI 
+  + with UI
+  + Private Agents
   + by configure Yaml 
   + deployment for ASE
+  
   
 # Lab 
 + deployment Script from Kudu
 + Pipleline Example for:  
-+  Build agent, dependencies 
++ Build and private agent, dependencies 
 + Java: Spring /PHP/Python/
 + Add ARM template in the pipeline 
 + Deployment for ASE
 + Docker container from Local dockerhub, 
 + Jenkins:  Server/Agent Model NodeJs on Jenkins
-+ example How to create Pipeline for multiple stages: QA, stage, production,  
-  
++ example How to create Pipeline for multiple stages: QA, stage, production
++ Functions and Devops.
++ React deployment.
++ Angular deployment.
++ Octopus extension.
++ Env variables inside the pipeline.
+
+
+
 # Common Troubleshooting for Linux deployment failure
  + deployment crashed the container: Swap  Space,  kusto tables
  + Deployment logs under API/dump
