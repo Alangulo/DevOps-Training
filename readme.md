@@ -14,13 +14,13 @@
    deployment for ASE
 # Lab 
 	> Pipleline Example for:  
-	>  Build agent, depedencies 
-	> Java: Spring /PHP/Python/
-	 > ARM template deployment
-	 > deployment for ASE
-	 > Docker container from Local dockerhub, 
-	 > Jenkins:  Server/Agent Model
-	 > example How to create Pipeline for multiple stages: QA, stage, production,  
+	>>  Build agent, depedencies 
+	>> Java: Spring /PHP/Python/
+	>> ARM template deployment
+	>> deployment for ASE
+	>> Docker container from Local dockerhub, 
+	>> Jenkins:  Server/Agent Model
+	>> example How to create Pipeline for multiple stages: QA, stage, production,  
   
 # Common Troubleshooting for Linux deployment failure
      > Swap  Space, 
