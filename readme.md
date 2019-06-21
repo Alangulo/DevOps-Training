@@ -13,20 +13,20 @@
    by configure Yaml 
    deployment for ASE
 # Lab 
-	> Pipleline Example for:  
-	>>  Build agent, depedencies 
-	>> Java: Spring /PHP/Python/
-	>> ARM template deployment
-	>> deployment for ASE
-	>> Docker container from Local dockerhub, 
-	>> Jenkins:  Server/Agent Model
-	>> example How to create Pipeline for multiple stages: QA, stage, production,  
+	+ Pipleline Example for:  
+	+  Build agent, dependencies 
+	+ Java: Spring /PHP/Python/
+	+ ARM template deployment
+	+ deployment for ASE
+	+ Docker container from Local dockerhub, 
+	+ Jenkins:  Server/Agent Model NodeJs on Jenkins
+	+ example How to create Pipeline for multiple stages: QA, stage, production,  
   
 # Common Troubleshooting for Linux deployment failure
-     > Swap  Space, 
-     > Deployment logs  under API/dump
-     > Build failure: how to Turn on the debugging tool,
-     > Private agent
+     + deployment crashed the container: Swap  Space,  kusto tables
+     + Deployment logs  under API/dump
+     + Build failure: how to Turn on the debugging tool,
+     + Private agent
 # Bonus: 
-  > Microservice
+  + Microservice
 
