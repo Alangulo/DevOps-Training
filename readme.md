@@ -1,4 +1,5 @@
-# What is DevOps:  
+# DevOps Training
+## What is DevOps:  
 ## CI/CD : deployment is done at the same time as the development, consistency 
 ##  Pipeline
    > --build
@@ -8,11 +9,14 @@
      Common command for Git: git push, git merge, pull request, multiple branch,
 ## Bitbucket
 ## Azure DevOps and other Open source tools for DevOps: Chef, ELK,  Octopus, Cucumber: Agent/ Server Model 
-## Pipeline:
+## Default deployment Script from Kudu for small projects
+## Pipeline with flexibility:
   + with UI 
   + by configure Yaml 
   + deployment for ASE
+  
 # Lab 
++ deployment Script from Kudu
 + Pipleline Example for:  
 +  Build agent, dependencies 
 + Java: Spring /PHP/Python/
@@ -24,7 +28,7 @@
   
 # Common Troubleshooting for Linux deployment failure
  + deployment crashed the container: Swap  Space,  kusto tables
- + Deployment logs  under API/dump
+ + Deployment logs under API/dump
  + Build failure: how to turn on the debugging tool,
  + Private agent
 # Bonus: 
